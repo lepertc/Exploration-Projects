@@ -15,4 +15,6 @@ Python
 ## Included files
 
 ## Data set
-
+I used data from Kaggle for this project. 
+I simplified the csv prior to loading it into python.
+https://www.kaggle.com/joelwilson/2012-2016-presidential-elections/data
