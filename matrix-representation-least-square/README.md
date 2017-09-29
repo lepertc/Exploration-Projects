@@ -16,3 +16,9 @@ Python
 I used data from Kaggle for this project. 
 I simplified the csv prior to loading it into python.
 https://www.kaggle.com/joelwilson/2012-2016-presidential-elections/data
+
+## Date
+9.29.2017
+
+## Time taken to produce
+1-2 hours
