@@ -12,8 +12,6 @@ Example of a least squares regression using matrices
 
 Python
 
-## Included files
-
 ## Data set
 I used data from Kaggle for this project. 
 I simplified the csv prior to loading it into python.
